@@ -6,4 +6,4 @@
 
 ## GitHub
 
-É uma plataforma de compartilhamento de **código-fonte** que usa ***recursos Git***.
+É uma _plataforma de compartilhamento_ de **código-fonte** que usa ***recursos Git***.

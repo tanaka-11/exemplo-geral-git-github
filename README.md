@@ -10,8 +10,8 @@
 
 ## Ações e termos comuns
 
-- Commit
-- Push
+- Commit: Equivalente a salvar uma alteração, ou seja, versionar algo que você fez no repositório.
+- Push: Ação de enviar para o GitHub (repositório online) as alterações realizadas no repositório local.
 - Pull
 - Repositório
 

@@ -12,7 +12,7 @@
 
 - Commit: Equivalente a salvar uma alteração, ou seja, versionar algo que você fez no repositório.
 - Push: Ação de enviar para o GitHub (repositório online) as alterações realizadas no repositório local.
-- Pull: Ação de enviar para o GitHub Desktop(repositório local) as alterações realizadas no repositório online.
+- Pull: Ação de enviar para o GitHub Desktop (repositório local) as alterações realizadas no repositório online.
 - Repositório: Resumidamente são pastas do projeto.
 
 ---
